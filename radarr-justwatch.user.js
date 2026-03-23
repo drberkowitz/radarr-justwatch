@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Radarr JustWatch Streaming Availability
 // @namespace    http://tampermonkey.net/
-// @version      2.5.0
+// @version      2.5.1
 // @description  Adds a JustWatch streaming availability panel to Radarr movie detail pages
 // @author       Dan Berkowitz
 // @match        http://localhost:7878/*
@@ -12,6 +12,7 @@
 // @grant        GM_addStyle
 // @connect      apis.justwatch.com
 // @connect      images.justwatch.com
+// @license      MIT
 // ==/UserScript==
 
 (function () {
