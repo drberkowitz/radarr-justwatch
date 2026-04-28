@@ -5,6 +5,8 @@ A Tampermonkey userscript that adds a **Stream On** panel to Radarr movie detail
 ![Tampermonkey](https://img.shields.io/badge/Tampermonkey-00485B?style=flat&logo=tampermonkey&logoColor=white)
 ![JustWatch](https://img.shields.io/badge/Powered%20by-JustWatch-FFD700?style=flat)
 
+![JustWatch icons in Radarr](https://greasyfork.s3.us-east-2.amazonaws.com/0rapp77hslrqtjz0ozcz5pmg6a4f)
+
 ---
 
 ## What it does
